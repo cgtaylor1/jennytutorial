@@ -11,3 +11,5 @@ git process crashed in this repository earlier. Make sure no other git
 process is running and remove the file manually to continue.
 
 But when I looked for the index.lock file it wasn't there"
+
+"pulled and pushed and then tried commit again and it worked"
