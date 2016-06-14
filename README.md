@@ -19,3 +19,6 @@ error.  The git process seems to keep crashing and messing this up"
 
 "The same error keeps coming up.  I seem to be doing it in the wrong order"
 
+"My guess it has something to do with the info message that the branch is 
+ahead of origin/master by 1 commit.  Not sure how this happened and not sure how this can be fixed?"
+
