@@ -33,5 +33,8 @@ ahead of origin/master by 1 commit.  Not sure how this happened and not sure how
 "This time the commit worked after the second try.  I think it has something
 to do with using ownCloud and the lag in its syncing"
 
+"Yup, the commit doesn't work on the first try because of the ownCloud sync"
+
+
 
 
