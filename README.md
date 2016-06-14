@@ -14,3 +14,6 @@ But when I looked for the index.lock file it wasn't there"
 
 "pulled and pushed and then tried commit again and it worked"
 
+"Could finally commit line 15 successfully without the usual index.lock 
+error.  The git process seems to keep crashing and messing this up"
+
