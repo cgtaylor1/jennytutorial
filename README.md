@@ -17,3 +17,5 @@ But when I looked for the index.lock file it wasn't there"
 "Could finally commit line 15 successfully without the usual index.lock 
 error.  The git process seems to keep crashing and messing this up"
 
+"The same error keeps coming up.  I seem to be doing it in the wrong order"
+
