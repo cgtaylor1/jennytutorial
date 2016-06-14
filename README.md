@@ -35,6 +35,8 @@ to do with using ownCloud and the lag in its syncing"
 
 "Yup, the commit doesn't work on the first try because of the ownCloud sync"
 
+"I want to move this out of the ownCloud directory"
+
 
 
 
