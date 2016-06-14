@@ -24,3 +24,5 @@ ahead of origin/master by 1 commit.  Not sure how this happened and not sure how
 
 "An extra push is always required in order for the commit to work"
 
+"And the push must come after a failed commit.  Doesn't matter how many times the push is done before the commit"
+
