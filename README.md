@@ -28,3 +28,6 @@ ahead of origin/master by 1 commit.  Not sure how this happened and not sure how
 
 "I pushed twice after the successful commit.  Maybe it's in sync now?"
 
+"Nope, still not.  The order of save, check staged, commit isn't working properly"
+
+
