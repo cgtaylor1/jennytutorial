@@ -37,6 +37,7 @@ to do with using ownCloud and the lag in its syncing"
 
 "I want to move this out of the ownCloud directory"
 
+"Now that this project was moved out of the ownCloud directory, the commit will hopefully only take one attempt"
 
 
 
