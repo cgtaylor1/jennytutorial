@@ -39,5 +39,7 @@ to do with using ownCloud and the lag in its syncing"
 
 "Now that this project was moved out of the ownCloud directory, the commit will hopefully only take one attempt"
 
+"Yup, only one commit was needed now so that confirms that the issue was with ownCloud"
+
 
 
