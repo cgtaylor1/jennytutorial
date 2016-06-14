@@ -1,3 +1,13 @@
 # jennytutorial
 "This is a line from RStudio"
 "There are question marks under Status in the Git tab"
+"I don't get the same create mode messages like Jenny's example"
+
+"Here's what happened after I commited line 4:
+fatal: Unable to create '/Users/cgtaylor/ownCloud/asda/git/jbtutorial/.git/index.lock': File exists.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+
+But when I looked for the index.lock file it wasn't there"
