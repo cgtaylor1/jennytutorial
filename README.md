@@ -26,3 +26,5 @@ ahead of origin/master by 1 commit.  Not sure how this happened and not sure how
 
 "And the push must come after a failed commit.  Doesn't matter how many times the push is done before the commit"
 
+"I pushed twice after the successful commit.  Maybe it's in sync now?"
+
