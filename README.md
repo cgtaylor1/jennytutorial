@@ -30,4 +30,8 @@ ahead of origin/master by 1 commit.  Not sure how this happened and not sure how
 
 "Nope, still not.  The order of save, check staged, commit isn't working properly"
 
+"This time the commit worked after the second try.  I think it has something
+to do with using ownCloud and the lag in its syncing"
+
+
 
