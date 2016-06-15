@@ -41,5 +41,5 @@ to do with using ownCloud and the lag in its syncing"
 
 "Yup, only one commit was needed now so that confirms that the issue was with ownCloud"
 
-
+"Testing on campus"
 
